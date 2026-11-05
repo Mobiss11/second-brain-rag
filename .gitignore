@@ -1,0 +1,9 @@
+# окружение и данные
+.env
+.venv/
+__pycache__/
+*.pyc
+qdrant_data/
+judge_log.jsonl
+.DS_Store
+.pytest_cache/
